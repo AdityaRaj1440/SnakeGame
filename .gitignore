@@ -1,0 +1,15 @@
+# ignore all
+* 
+
+# unignore dir
+
+!*/
+
+# unignore extensions 
+!*.*
+!makefile
+
+# ignore
+*.class
+*.metadata
+.DS_Store
