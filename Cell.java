@@ -7,11 +7,11 @@ public class Cell {
 		this.col = col;
 	}
 
-	public CellType getCellType() return cellType;
+	public CellType getCellType() {return cellType;}
 
-	public void setCellType (CellType cellType) this.cellType = cellType;
+	public void setCellType (CellType cellType) {this.cellType = cellType;}
 
-	public int getRow() return row;
+	public int getRow() {return row;}
 
-	public int getCol() return col;
+	public int getCol() {return col;}
 }
